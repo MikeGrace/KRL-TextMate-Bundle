@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>=&lt;&lt;
+	<string>fired {
 	$0
-&gt;&gt;;</string>
+}</string>
 	<key>name</key>
-	<string>heredoc</string>
+	<string>fired</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>=&lt;&lt;</string>
+	<string>fired</string>
 	<key>uuid</key>
-	<string>A536899B-7E15-47EE-AB54-6A6A931524C0</string>
+	<string>92C88566-5C85-44C2-8290-DD9E4715DF70</string>
 </dict>
 </plist>

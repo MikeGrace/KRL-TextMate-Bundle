@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>=&lt;&lt;
-	$0
-&gt;&gt;;</string>
+	<string>mark ent:${1:entName} with ${2:string};</string>
 	<key>name</key>
-	<string>heredoc</string>
+	<string>mark trail</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>=&lt;&lt;</string>
+	<string>mark</string>
 	<key>uuid</key>
-	<string>A536899B-7E15-47EE-AB54-6A6A931524C0</string>
+	<string>DCF4DAD6-6CA2-4ADB-8562-098A795FB4C0</string>
 </dict>
 </plist>

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>emit &lt;&lt;
-	$1
-&gt;&gt;;</string>
+	<string>emit &lt;|
+	$0
+|&gt;;</string>
 	<key>name</key>
 	<string>emit</string>
 	<key>scope</key>

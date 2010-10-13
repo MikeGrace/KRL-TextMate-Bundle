@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>=&lt;&lt;
-	$0
-&gt;&gt;;</string>
+	<string>with ${1:key} = ${2:value}</string>
 	<key>name</key>
-	<string>heredoc</string>
+	<string>'with' key value pair parameters</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>=&lt;&lt;</string>
+	<string>with</string>
 	<key>uuid</key>
-	<string>A536899B-7E15-47EE-AB54-6A6A931524C0</string>
+	<string>746073E5-5349-4FE3-A43E-F84CB12DF5D0</string>
 </dict>
 </plist>
