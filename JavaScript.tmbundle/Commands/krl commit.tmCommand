@@ -6,8 +6,7 @@
 	<string>saveActiveFile</string>
 	<key>command</key>
 	<string>growlnotify -t "TextMate" -m "committing code" -a "TextMate"
-krl commit
-</string>
+krl commit</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
@@ -15,7 +14,7 @@ krl commit
 	<key>name</key>
 	<string>krl commit</string>
 	<key>output</key>
-	<string>discard</string>
+	<string>showAsTooltip</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

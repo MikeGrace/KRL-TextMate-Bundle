@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>rule ${1:first_rule} {
-	select when ${3:pageview} ${4:"${5:.*}"}$0
-}</string>
+	<string>${1:item}: #{$1}&lt;br/&gt;$2</string>
 	<key>name</key>
-	<string>rule</string>
+	<string>quick meta output</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>rule</string>
+	<string>##</string>
 	<key>uuid</key>
-	<string>E3F24ACB-2469-438F-93E6-C44063965D4F</string>
+	<string>214A8484-E89A-4BA3-BCD3-F85427A187A9</string>
 </dict>
 </plist>

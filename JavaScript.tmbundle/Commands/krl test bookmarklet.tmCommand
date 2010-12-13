@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>beforeRunningCommand</key>
-	<string>saveActiveFile</string>
+	<string>nop</string>
 	<key>command</key>
-	<string>growlnotify -t "TextMate" -m "deploying latest version" -a "TextMate"
-krl deploy
+	<string>growlnotify -t "TextMate" -m "creating test bookmarklet" -a "TextMate"
+krl test bookmarklet
 </string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>@d</string>
+	<string>^~@t</string>
 	<key>name</key>
-	<string>krl deploy</string>
+	<string>krl test bookmarklet</string>
 	<key>output</key>
 	<string>showAsTooltip</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>
-	<string>38BF353A-5C45-4006-9608-349D4C8AEC39</string>
+	<string>0EC18724-0493-434C-89D6-424CA7A6CC47</string>
 </dict>
 </plist>
